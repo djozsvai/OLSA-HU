@@ -1,0 +1,60 @@
+___ NAMES (Average Syllable Count: 2.1) ___
+anna
+csaba
+erika
+fanni
+gyula
+imre
+jános
+lászló
+miklós
+márta
+
+___ NUMBERS (Average Syllable Count: 1.4) ___
+egy
+három
+hét
+húsz
+kettő
+kilenc
+negyven
+négy
+sok
+tíz
+
+___ ADJECTIVES (Average Syllable Count: 2.1) ___
+barna
+egyenes
+hideg
+lila
+magas
+nedves
+vidám
+éber
+édes
+élénk
+
+___ OBJECTS (Average Syllable Count: 2.2) ___
+havat
+kéményt
+macskát
+mezőt
+padot
+ruhát
+sarkot
+szemüveget
+szoknyát
+zoknit
+
+___ VERBS (Average Syllable Count: 2.1) ___
+emel
+emleget
+figyel
+gondol
+gondoz
+kever
+lapoz
+mutat
+rajzol
+öntöz
+
