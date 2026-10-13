@@ -96,3 +96,8 @@ vonatot
 padlót
 szekrényt
 tojást
+kiflit
+zsemlét
+medvét
+
+
