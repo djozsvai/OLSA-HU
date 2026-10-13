@@ -12,7 +12,7 @@ my %word_table = (
         "Liza", "Margit", "Mihály", "Panni", "Tamás"
     ],
     mennyisegjelzo => [
-        "egy", "harmic", "hat", "három", "húsz", 
+        "egy", "harminc", "hat", "három", "húsz", 
         "negyven", "négy", "sok", "tíz", "ötven"
     ],
     minosegjelzo => [
