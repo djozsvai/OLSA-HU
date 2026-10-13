@@ -8,24 +8,24 @@ use List::Util qw(shuffle);
 # Matrix vocabulary derived from the table
 my %word_table = (
     alany => [
-        "Anna", "Béla", "Fanni", "Gyula", "Imre", 
-        "József", "Márta", "Miklós", "Norbert", "Ádám"
+        "Anna", "Gyula", "Judit", "János", "Kata", 
+        "Liza", "Margit", "Mihály", "Panni", "Tamás"
     ],
     mennyisegjelzo => [
-        "egy", "három", "húsz", "negyven", "négy", 
-        "pár", "sok", "tíz", "öt", "kilenc"
+        "egy", "harmic", "hat", "három", "húsz", 
+        "negyven", "négy", "sok", "tíz", "ötven"
     ],
     minosegjelzo => [
-        "barna", "boldog", "egyenes", "egész", "hasznos", 
-        "hideg", "kerek", "magas", "vizes", "élénk"
+        "barna", "boldog", "egyenes", "kerek", "hasznos", 
+        "magas", "vidám", "vékony", "álmos", "élénk"
     ],
     targy => [
-        "csizmát", "erdőt", "kaput", "kefét", "macskát", 
-        "mezőt", "nyilat", "sarkot", "széket", "zoknit"
+        "dobozt", "hajót", "kefét", "kendőt", "macskát", 
+        "mezőt", "növényt", "széket", "zsemlét", "zászlót"
     ],
     allitmany => [
-        "cipel", "emel", "gondol", "kerül", "mozgat", 
-        "mutat", "olvas", "rajzol", "ágyaz", "vezet"
+        "emel", "figyel", "kerül", "kever", "lapoz", 
+        "lenget", "mozgat", "ismer", "rendel", "ugrik"
     ]
 );
 
