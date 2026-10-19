@@ -12,7 +12,7 @@ The closed word set for the sentence test is:
 |---|---|---|---|---|
 |Anna|egy|barna|dobozt|emel|
 |Gyula|harminc|boldog|hajót|figyel|
-|Judit|hat|egyenes|kefét|kerül||
+|Judit|hat|egyenes|kefét|kerül|
 |János|három|kerek|kendőt|kever
 |Kata|húsz|hasznos|macskát|lapoz|
 |Liza|negyven|magas|mezőt|lenget|
@@ -20,3 +20,15 @@ The closed word set for the sentence test is:
 |Mihály|sok|vékony|széket|ismer|
 |Panni|tíz|álmos|zsemlét|rendel|
 |Tamás|ötven|élénk|zászlót|ugrik|
+
+The recording will be carried out on 2026-10-22 in the audiometric booth at Magyar Hallásközpont.
+Recording equipment:
+- Microphone: sE8 small-diaphragm, cardioid
+- USB soundcard: Focusrite Scarlett Solo 3rd gen.
+- Software: Audacity 4 running on a Windows 10 PC with sampling rate of 44.1 kHz and 32 bit resolution
+
+A hardware 50 Hz high-pass filter will be applied to eliminate any unwanted environmental rumble noise.
+Melinda Üveges, a female native Hungarian with standard dialect, generously accepted the invitation to be the recorded speaker for this project.
+She instructed to maintain a consistent vocal effort, speech rate, intonation, and distance from the microphone throughout the recordings, while enunciating all words clearly and naturally.
+
+100 sentences, that include all possible adjacent word combinations will be recorded.
