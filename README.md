@@ -8,6 +8,8 @@ References:
 
 The closed word set for the sentence test is:
 
+|Subject|Quantity|Quality|Object|Verb|
+|---|---|---|---|---|
 |Anna|egy|barna|dobozt|emel|
 |Gyula|harminc|boldog|hajót|figyel|
 |Judit|hat|egyenes|kefét|kerül||
