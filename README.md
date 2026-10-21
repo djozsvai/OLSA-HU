@@ -27,8 +27,8 @@ Recording equipment:
 - USB soundcard: Focusrite Scarlett Solo 3rd gen.
 - Software: Audacity 4 running on a Windows 10 PC with sampling rate of 44.1 kHz and 32 bit resolution
 
-A hardware 50 Hz high-pass filter will be applied to eliminate any unwanted environmental rumble noise.
+A hardware 80 Hz high-pass filter was applied to eliminate any unwanted environmental rumble noise.
 Melinda Üveges, a female native Hungarian with standard dialect, generously accepted the invitation to be the recorded speaker for this project.
-She instructed to maintain a consistent vocal effort, speech rate, intonation, and distance from the microphone throughout the recordings, while enunciating all words clearly and naturally.
+She was instructed to maintain a consistent vocal effort, speech rate, intonation, and distance from the microphone throughout the recordings, while enunciating all words clearly and naturally.
 
-100 sentences, that includes all possible adjacent word combinations will be recorded.
+100 sentences, that includes all possible adjacent word combinations were be recorded (see recorded sentences.txt).
