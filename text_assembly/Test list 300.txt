@@ -8,19 +8,23 @@ Margit négy hasznos hajót ismer
 Mihály sok magas kefét rendel
 Panni tíz vidám kendőt ugrik
 Tamás ötven vékony macskát emel
+
+
 Anna tíz hasznos kefét ugrik
 Gyula ötven magas kendőt emel
 Judit egy vidám macskát figyel
-János harmic vékony mezőt kerül
+János harminc vékony mezőt kerül
 Kata hat álmos növényt kever
 Liza három élénk széket lapoz
 Margit húsz barna zsemlét lenget
 Mihály negyven boldog zászlót mozgat
 Panni négy egyenes dobozt ismer
 Tamás sok kerek hajót rendel
+
+
 Anna ötven egyenes hajót lapoz
 Gyula egy kerek kefét lenget
-Judit harmic hasznos kendőt mozgat
+Judit harminc hasznos kendőt mozgat
 János hat magas macskát ismer
 Kata három vidám mezőt rendel
 Liza húsz vékony növényt ugrik
@@ -28,6 +32,8 @@ Margit negyven álmos széket emel
 Mihály négy élénk zsemlét figyel
 Panni sok barna zászlót kerül
 Tamás tíz boldog dobozt kever
+
+
 Anna hat vékony kefét emel
 Gyula három álmos kendőt figyel
 Judit húsz élénk macskát kerül
@@ -37,7 +43,9 @@ Liza sok egyenes széket lenget
 Margit tíz kerek zsemlét mozgat
 Mihály ötven hasznos zászlót ismer
 Panni egy magas dobozt rendel
-Tamás harmic vidám hajót ugrik
+Tamás harminc vidám hajót ugrik
+
+
 Anna húsz vékony széket kerül
 Gyula negyven álmos zsemlét kever
 Judit négy élénk zászlót lapoz
@@ -45,29 +53,35 @@ János sok barna dobozt lenget
 Kata tíz boldog hajót mozgat
 Liza ötven egyenes kefét ismer
 Margit egy kerek kendőt rendel
-Mihály harmic hasznos macskát ugrik
+Mihály harminc hasznos macskát ugrik
 Panni hat magas mezőt emel
 Tamás három vidám növényt figyel
+
+
 Anna négy vidám dobozt kerül
 Gyula sok vékony hajót kever
 Judit tíz álmos kefét lapoz
 János ötven élénk kendőt lenget
 Kata egy barna macskát mozgat
-Liza harmic boldog mezőt ismer
+Liza harminc boldog mezőt ismer
 Margit hat egyenes növényt rendel
 Mihály három kerek széket ugrik
 Panni húsz hasznos zsemlét emel
 Tamás negyven magas zászlót figyel
+
+
 Anna negyven élénk dobozt ugrik
 Gyula négy barna hajót emel
 Judit sok boldog kefét figyel
 János tíz egyenes kendőt kerül
 Kata ötven kerek macskát kever
 Liza egy hasznos mezőt lapoz
-Margit harmic magas növényt lenget
+Margit harminc magas növényt lenget
 Mihály hat vidám széket mozgat
 Panni három vékony zsemlét ismer
 Tamás húsz álmos zászlót rendel
+
+
 Anna hat kerek kefét kever
 Gyula három hasznos kendőt lapoz
 Judit húsz magas macskát lenget
@@ -77,10 +91,12 @@ Liza sok álmos széket rendel
 Margit tíz élénk zsemlét ugrik
 Mihály ötven barna zászlót emel
 Panni egy boldog dobozt figyel
-Tamás harmic egyenes hajót kerül
+Tamás harminc egyenes hajót kerül
+
+
 Anna ötven vidám hajót ismer
 Gyula egy vékony kefét rendel
-Judit harmic álmos kendőt ugrik
+Judit harminc álmos kendőt ugrik
 János hat élénk macskát emel
 Kata három barna mezőt figyel
 Liza húsz boldog növényt kerül
@@ -88,7 +104,9 @@ Margit negyven egyenes széket kever
 Mihály négy kerek zsemlét lapoz
 Panni sok hasznos zászlót lenget
 Tamás tíz magas dobozt mozgat
-Anna harmic barna széket mozgat
+
+
+Anna harminc barna széket mozgat
 Gyula hat boldog zsemlét ismer
 Judit három egyenes zászlót rendel
 János húsz kerek dobozt ugrik
@@ -98,7 +116,9 @@ Margit sok vidám kendőt kerül
 Mihály tíz vékony macskát kever
 Panni ötven álmos mezőt lapoz
 Tamás egy élénk növényt lenget
-Anna harmic egyenes növényt ugrik
+
+
+Anna harminc egyenes növényt ugrik
 Gyula hat kerek széket emel
 Judit három hasznos zsemlét figyel
 János húsz magas zászlót kerül
@@ -108,6 +128,8 @@ Margit sok álmos kefét lenget
 Mihály tíz élénk kendőt mozgat
 Panni ötven barna macskát ismer
 Tamás egy boldog mezőt rendel
+
+
 Anna húsz vidám kefét kerül
 Gyula negyven vékony kendőt kever
 Judit négy álmos macskát lapoz
@@ -115,9 +137,11 @@ János sok élénk mezőt lenget
 Kata tíz barna növényt mozgat
 Liza ötven boldog széket ismer
 Margit egy egyenes zsemlét rendel
-Mihály harmic kerek zászlót ugrik
+Mihály harminc kerek zászlót ugrik
 Panni hat hasznos dobozt emel
 Tamás három magas hajót figyel
+
+
 Anna hat vékony zsemlét emel
 Gyula három álmos zászlót figyel
 Judit húsz élénk dobozt kerül
@@ -127,27 +151,33 @@ Liza sok egyenes kendőt lenget
 Margit tíz kerek macskát mozgat
 Mihály ötven hasznos mezőt ismer
 Panni egy magas növényt rendel
-Tamás harmic vidám széket ugrik
+Tamás harminc vidám széket ugrik
+
+
 Anna tíz magas hajót emel
 Gyula ötven vidám kefét figyel
 Judit egy vékony kendőt kerül
-János harmic álmos macskát kever
+János harminc álmos macskát kever
 Kata hat élénk mezőt lapoz
 Liza három barna növényt lenget
 Margit húsz boldog széket mozgat
 Mihály negyven egyenes zsemlét ismer
 Panni négy kerek zászlót rendel
 Tamás sok hasznos dobozt ugrik
+
+
 Anna négy barna kefét mozgat
 Gyula sok boldog kendőt ismer
 Judit tíz egyenes macskát rendel
 János ötven kerek mezőt ugrik
 Kata egy hasznos növényt emel
-Liza harmic magas széket figyel
+Liza harminc magas széket figyel
 Margit hat vidám zsemlét kerül
 Mihály három vékony zászlót kever
 Panni húsz álmos dobozt lapoz
 Tamás negyven élénk hajót lenget
+
+
 Anna húsz kerek kendőt emel
 Gyula negyven hasznos macskát figyel
 Judit négy magas mezőt kerül
@@ -155,11 +185,13 @@ János sok vidám növényt kever
 Kata tíz vékony széket lapoz
 Liza ötven álmos zsemlét lenget
 Margit egy élénk zászlót mozgat
-Mihály harmic barna dobozt ismer
+Mihály harminc barna dobozt ismer
 Panni hat boldog hajót rendel
 Tamás három egyenes kefét ugrik
+
+
 Anna egy kerek dobozt ismer
-Gyula harmic hasznos hajót rendel
+Gyula harminc hasznos hajót rendel
 Judit hat magas kefét ugrik
 János három vidám kendőt emel
 Kata húsz vékony macskát figyel
@@ -168,16 +200,20 @@ Margit négy élénk növényt kever
 Mihály sok barna széket lapoz
 Panni tíz boldog zsemlét lenget
 Tamás ötven egyenes zászlót mozgat
+
+
 Anna négy hasznos kefét lenget
 Gyula sok magas kendőt mozgat
 Judit tíz vidám macskát ismer
 János ötven vékony mezőt rendel
 Kata egy álmos növényt ugrik
-Liza harmic élénk széket emel
+Liza harminc élénk széket emel
 Margit hat barna zsemlét figyel
 Mihály három boldog zászlót kerül
 Panni húsz egyenes dobozt kever
 Tamás negyven kerek hajót lapoz
+
+
 Anna három barna mezőt mozgat
 Gyula húsz boldog növényt ismer
 Judit negyven egyenes széket rendel
@@ -186,11 +222,13 @@ Kata sok hasznos zászlót emel
 Liza tíz magas dobozt figyel
 Margit ötven vidám hajót kerül
 Mihály egy vékony kefét kever
-Panni harmic álmos kendőt lapoz
+Panni harminc álmos kendőt lapoz
 Tamás hat élénk macskát lenget
+
+
 Anna ötven álmos zászlót ugrik
 Gyula egy élénk dobozt emel
-Judit harmic barna hajót figyel
+Judit harminc barna hajót figyel
 János hat boldog kefét kerül
 Kata három egyenes kendőt kever
 Liza húsz kerek macskát lapoz
@@ -198,58 +236,70 @@ Margit negyven hasznos mezőt lenget
 Mihály négy magas növényt mozgat
 Panni sok vidám széket ismer
 Tamás tíz vékony zsemlét rendel
+
+
 Anna negyven barna kendőt ismer
 Gyula négy boldog macskát rendel
 Judit sok egyenes mezőt ugrik
 János tíz kerek növényt emel
 Kata ötven hasznos széket figyel
 Liza egy magas zsemlét kerül
-Margit harmic vidám zászlót kever
+Margit harminc vidám zászlót kever
 Mihály hat vékony dobozt lapoz
 Panni három álmos hajót lenget
 Tamás húsz élénk kefét mozgat
+
+
 Anna negyven vidám zászlót ismer
 Gyula négy vékony dobozt rendel
 Judit sok álmos hajót ugrik
 János tíz élénk kefét emel
 Kata ötven barna kendőt figyel
 Liza egy boldog macskát kerül
-Margit harmic egyenes mezőt kever
+Margit harminc egyenes mezőt kever
 Mihály hat kerek növényt lapoz
 Panni három hasznos széket lenget
 Tamás húsz magas zsemlét mozgat
+
+
 Anna sok kerek növényt rendel
 Gyula tíz hasznos széket ugrik
 Judit ötven magas zsemlét emel
 János egy vidám zászlót figyel
-Kata harmic vékony dobozt kerül
+Kata harminc vékony dobozt kerül
 Liza hat álmos hajót kever
 Margit három élénk kefét lapoz
 Mihály húsz barna kendőt lenget
 Panni negyven boldog macskát mozgat
 Tamás négy egyenes mezőt ismer
+
+
 Anna tíz egyenes növényt emel
 Gyula ötven kerek széket figyel
 Judit egy hasznos zsemlét kerül
-János harmic magas zászlót kever
+János harminc magas zászlót kever
 Kata hat vidám dobozt lapoz
 Liza három vékony hajót lenget
 Margit húsz álmos kefét mozgat
 Mihály negyven élénk kendőt ismer
 Panni négy barna macskát rendel
 Tamás sok boldog mezőt ugrik
+
+
 Anna sok magas mezőt figyel
 Gyula tíz vidám növényt kerül
 Judit ötven vékony széket kever
 János egy álmos zsemlét lapoz
-Kata harmic élénk zászlót lenget
+Kata harminc élénk zászlót lenget
 Liza hat barna dobozt mozgat
 Margit három boldog hajót ismer
 Mihály húsz egyenes kefét rendel
 Panni negyven kerek kendőt ugrik
 Tamás négy hasznos macskát emel
+
+
 Anna egy egyenes macskát lapoz
-Gyula harmic kerek mezőt lenget
+Gyula harminc kerek mezőt lenget
 Judit hat hasznos növényt mozgat
 János három magas széket ismer
 Kata húsz vidám zsemlét rendel
@@ -258,6 +308,8 @@ Margit négy álmos dobozt emel
 Mihály sok élénk hajót figyel
 Panni tíz barna kefét kerül
 Tamás ötven boldog kendőt kever
+
+
 Anna három kerek mezőt kever
 Gyula húsz hasznos növényt lapoz
 Judit negyven magas széket lenget
@@ -266,9 +318,11 @@ Kata sok vékony zászlót ismer
 Liza tíz álmos dobozt rendel
 Margit ötven élénk hajót ugrik
 Mihály egy barna kefét emel
-Panni harmic boldog kendőt figyel
+Panni harminc boldog kendőt figyel
 Tamás hat egyenes macskát kerül
-Anna harmic vékony kendőt rendel
+
+
+Anna harminc vékony kendőt rendel
 Gyula hat álmos macskát ugrik
 Judit három élénk mezőt emel
 János húsz barna növényt figyel
@@ -278,6 +332,8 @@ Margit sok kerek zászlót lapoz
 Mihály tíz hasznos dobozt lenget
 Panni ötven magas hajót mozgat
 Tamás egy vidám kefét ismer
+
+
 Anna három magas macskát ugrik
 Gyula húsz vidám mezőt emel
 Judit negyven vékony növényt figyel
@@ -286,15 +342,19 @@ Kata sok élénk zsemlét kever
 Liza tíz barna zászlót lapoz
 Margit ötven boldog dobozt lenget
 Mihály egy egyenes hajót mozgat
-Panni harmic kerek kefét ismer
+Panni harminc kerek kefét ismer
 Tamás hat hasznos kendőt rendel
+
+
 Anna sok vékony mezőt mozgat
 Gyula tíz álmos növényt ismer
 Judit ötven élénk széket rendel
 János egy barna zsemlét ugrik
-Kata harmic boldog zászlót emel
+Kata harminc boldog zászlót emel
 Liza hat egyenes dobozt figyel
 Margit három kerek hajót kerül
 Mihály húsz hasznos kefét kever
 Panni negyven magas kendőt lapoz
 Tamás négy vidám macskát lenget
+
+

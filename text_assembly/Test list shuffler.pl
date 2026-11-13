@@ -66,6 +66,7 @@ sub generate_matrix_sentences {
             }
             push @sentences, join(" ", @words);
         }
+		push @sentences, "\n";
     }
     
     return @sentences;

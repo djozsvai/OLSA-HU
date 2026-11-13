@@ -13,13 +13,28 @@ The closed word set for the sentence test is:
 |Anna|egy|barna|dobozt|emel|
 |Gyula|harminc|boldog|hajót|figyel|
 |Judit|hat|egyenes|kefét|kerül|
-|János|három|kerek|kendőt|kever
+|János|három|kerek|kendőt|kever|
 |Kata|húsz|hasznos|macskát|lapoz|
 |Liza|negyven|magas|mezőt|lenget|
 |Margit|négy|vidám|növényt|mozgat|
 |Mihály|sok|vékony|széket|ismer|
 |Panni|tíz|álmos|zsemlét|rendel|
 |Tamás|ötven|élénk|zászlót|ugrik|
+
+The English translation of the matrix, keeping the original order, is as follows:
+
+|Subject|Quantity|Quality|Object|Verb|
+|---|---|---|---|---|
+|Anna|one|brown|box|lift|
+|Gyula|thirty|happy|ship|listen|
+|Judit|six|straight|brush|avoid|
+|János|three|round|scarf|stir|
+|Kata|twenty|useful|cat|turn (page)|
+|Liza|forty|tall|field|swing|
+|Margit|four|merry|plant|move|
+|Mihály|many|thin|chair|know|
+|Panni|ten|sleepy|bun|order|
+|Tamás|fifty|vivid|flag|jump|
 
 The recording will be carried out on 2026-10-22 in the audiometric booth at Magyar Hallásközpont.
 Recording equipment:
