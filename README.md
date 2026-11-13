@@ -36,13 +36,13 @@ The English translation of the matrix, keeping the original order, is as follows
 |Panni|ten|sleepy|bun|order|
 |Tamás|fifty|vivid|flag|jump|
 
-The recording will be carried out on 2026-10-22 in the audiometric booth at Magyar Hallásközpont.
+The recording will be carried out on 2026-10-22 in the audiometric booth at Budai Hallásközpont.
 Recording equipment:
 - Microphone: sE8 small-diaphragm, cardioid
 - USB soundcard: Focusrite Scarlett Solo 3rd gen.
 - Software: Audacity 4 running on a Windows 10 PC with sampling rate of 44.1 kHz and 32 bit resolution
 
-The recording environment had a -55 dB mean noise level and an average reverberation time of less than 0.3 seconds.
+The recording environment had a -55 dB RMS noise level and an average reverberation time of less than 0.3 seconds.
 
 A hardware 80 Hz high-pass filter was applied to eliminate any unwanted environmental rumble noise.
 Melinda Üveges, a female native Hungarian with standard dialect, generously accepted the invitation to be the recorded speaker for this project.
